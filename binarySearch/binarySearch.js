@@ -17,7 +17,7 @@ var result = binarySearch([
 
 console.log(result);
 
-function binarySearch(stuff, targetElm) {
+function binarySearch(stuff, searchElement) {
 
   // starting values
   var currentElement;
